@@ -1,5 +1,3 @@
-## ShootingTankIO
-
 ## 🚀 Tính năng nổi bật
 
 * **Real-time Multiplayer:** Tương tác và chiến đấu mượt mà với hàng chục người chơi khác trong cùng một bản đồ nhờ công nghệ WebSocket.
