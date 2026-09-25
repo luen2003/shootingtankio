@@ -1,7 +1,4 @@
-## ShootingTankIO
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Author](https://img.shields.io/badge/Author-dluongta-orange.svg)](https://github.com/luen2003)
+# ShootingTankIO
 
 ## 🚀 Tính năng nổi bật
 
